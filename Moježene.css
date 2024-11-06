@@ -103,46 +103,6 @@ li.dropdown {
   display: block;
 }
 
-
-
-/* NOTE: lyrics blocks */
-
-.flex-container {
-  display: flex;
-  background-color: gray;
-
-}
-
-.flex-container {
-  display: flex;
-  justify-content: center;
-gap: 30px;
-}
-
-.flex-container > div {
-  background-color:white;
-  margin: 10px;
-  padding:50px;
-  font-size: 20px;
-}
-
-
-.flex-container {
-  display: flex;
-  background-color: gray;
-}
-
-.flex-gap {
-  display: inline-flex;
-  flex-wrap: wrap;
-  
-}
-
-.flex-container > div {
-  background-color:white;
-  margin: 10px;
-  padding:50px;
-  font-size: 20px;
    
 }
 
